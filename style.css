@@ -1,0 +1,15 @@
+    body{
+background-color:white;
+    }
+
+    h1{
+        color:red;
+        border: double;
+        text-align: center;
+    }
+
+    .time{
+        color:green;
+     text-align: center;
+     border: none;
+    }
